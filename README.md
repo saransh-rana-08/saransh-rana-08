@@ -29,12 +29,12 @@ public class Saransh {
 
 ## About Me
 
-- 🎓 **CS Student** with a laser focus on **Backend Engineering**
-- ⚙️ Building real-world systems using **Java & Spring Boot**
-- 📐 Currently grinding through **Data Structures, Algorithms & System Design**
-- 🤝 Open to collaborating on **meaningful, impactful projects**
-- 💬 Ask me about **Java, REST APIs, or backend architecture**
-- 📫 Reach me at [saranshrana08@gmail.com](mailto:saranshrana08@gmail.com)
+- **CS Student** with a laser focus on **Backend Engineering**
+- Building real-world systems using **Java & Spring Boot**
+- Currently grinding through **Data Structures, Algorithms & System Design**
+- Open to collaborating on **meaningful, impactful projects**
+- Ask me about **Java, REST APIs, or backend architecture**
+- Reach me at [saranshrana08@gmail.com](mailto:saranshrana08@gmail.com)
 
 ---
 
@@ -69,14 +69,14 @@ public class Saransh {
 
 <div align="center">
 
-[![CodeNakshatra-Aegis](https://github-readme-stats.vercel.app/api/pin/?username=saransh-rana-08&repo=CodeNakshatra-Ageis&theme=tokyonight&hide_border=true)](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
+[![CodeNakshatra-Aegis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saransh-rana-08&repo=CodeNakshatra-Ageis&theme=tokyonight&hide_border=true)](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
 &nbsp;&nbsp;
-[![Vittles App](https://github-readme-stats.vercel.app/api/pin/?username=ishita3075&repo=Vittles_app&theme=tokyonight&hide_border=true)](https://github.com/ishita3075/Vittles_app)
+[![Vittles App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ishita3075&repo=Vittles_app&theme=tokyonight&hide_border=true)](https://github.com/ishita3075/Vittles_app)
 
 </div>
 
-> 💡 **CodeNakshatra-Aegis** — A full-stack security-focused project built with Java & Spring Boot.
-> 🍴 **Vittles App** — A collaborative food-focused app project.
+> **CodeNakshatra-Aegis** — A full-stack security-focused project built with Java & Spring Boot.
+> **Vittles App** — A collaborative food-focused app project.
 
 ---
 
@@ -84,9 +84,9 @@ public class Saransh {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
 
 <br/><br/>
 
