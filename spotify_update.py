@@ -81,18 +81,41 @@ def main():
         track = get_recently_played(token)
 
     if track:
-        emoji = "🎵" if track["is_playing"] else "🎧"
-        status = "**Now Playing**" if track["is_playing"] else "**Last Played**"
-        content = (
-            f"{emoji} {status}: "
-            f"[{track['name']}]({track['url']}) "
-            f"*by {track['artist']}*"
+        status_label = "NOW+PLAYING" if track["is_playing"] else "LAST+PLAYED"
+        badge = (
+            f'<a href="{track["url"]}">'
+            f'<img src="https://img.shields.io/badge/{status_label}-1DB954'
+            f'?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>'
+            f'</a>'
         )
+        if track.get("album_art"):
+            art = (
+                f'<a href="{track["url"]}">'
+                f'<img src="{track["album_art"]}" width="60" height="60" alt="album art"/>'
+                f'</a>'
+            )
+            content = (
+                f'{badge}<br/><br/>'
+                f'<table><tr>'
+                f'<td>{art}</td>'
+                f'<td>&nbsp;&nbsp;<b>{track["name"]}</b><br/>'
+                f'&nbsp;&nbsp;<i>{track["artist"]}</i></td>'
+                f'</tr></table>'
+            )
+        else:
+            content = (
+                f'{badge}<br/><br/>'
+                f'<b>{track["name"]}</b> &nbsp;·&nbsp; <i>{track["artist"]}</i>'
+            )
     else:
-        content = "🔇 *Not listening to anything right now.*"
+        content = (
+            '<img src="https://img.shields.io/badge/OFFLINE-333333'
+            '?style=for-the-badge&logo=spotify&logoColor=white" alt="Offline"/>'
+            '<br/><br/>🔇 <i>Not listening to anything right now.</i>'
+        )
 
     update_readme(content)
-    print(f"README updated: {content}")
+    print("README updated successfully.")
 
 
 if __name__ == "__main__":
