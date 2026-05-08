@@ -2,7 +2,10 @@
 
 <img src="./assets/2789396.jpg" width="100%" alt="Saransh Rana - Backend Developer | CS Student"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Not+Lucky.+Just+Consistent.;Building+Backend+Systems+%7C+Java+%26+Spring+Boot;CS+Student+%7C+Consistent+Learner;Deep+in+DSA+%26+System+Design)](https://git.io/typing-svg)
+<h1>Saransh Rana</h1>
+<p><b>Backend Developer &nbsp;|&nbsp; CS Student &nbsp;|&nbsp; Java &amp; Spring Boot</b></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Not+Lucky.+Just+Consistent.;Backend+Dev+%7C+Java+%26+Spring+Boot;CS+Student+%7C+Consistent+Learner;Grinding+DSA+%26+System+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,7 +45,7 @@ public class Saransh {
 
 <div align="center">
 
-**Languages**
+**`— Languages —`**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,14 +53,18 @@ public class Saransh {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+<br/>
+
+**`— Frameworks & Tools —`**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**
+<br/>
+
+**`— Databases —`**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,18 +73,30 @@ public class Saransh {
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![CodeNakshatra-Aegis](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saransh-rana-08&repo=CodeNakshatra-Ageis&theme=tokyonight&hide_border=true)](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
-&nbsp;&nbsp;
-[![Vittles App](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ishita3075&repo=Vittles_app&theme=tokyonight&hide_border=true)](https://github.com/ishita3075/Vittles_app)
+### 🛡️ [CodeNakshatra-Aegis](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
 
-</div>
+A **full-stack security-focused emergency response system** built to operate silently under a disguise UI. Integrates real-time SOS dispatch, evidence capture, and backend orchestration.
 
-> **CodeNakshatra-Aegis** — A full-stack security-focused project built with Java & Spring Boot.
-> **Vittles App** — A collaborative food-focused app project.
+**Tech:** `Java` `Spring Boot` `TypeScript` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍴 [Vittles App](https://github.com/ishita3075/Vittles_app)
+
+A **collaborative food discovery and management app** built as a team project. Focused on clean UI, community-driven content, and practical food utility features.
+
+**Tech:** `JavaScript` `Node.js` `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,6 +157,7 @@ public class Saransh {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=100&section=footer" width="100%"/>
-<sub><i>"Not Lucky. Just Consistent."</i> — Saransh Rana</sub>
+<img src="./assets/2789396.jpg" width="100%" alt="footer"/>
+<br/>
+<sub><i>"Not Lucky. Just Consistent."</i> &nbsp;—&nbsp; Saransh Rana</sub>
 </div>
