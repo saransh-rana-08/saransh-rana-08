@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-*Waiting for first sync... trigger the workflow from the Actions tab!*
+🎵 **Now Playing**: [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) *by Rahat Fateh Ali Khan*
 <!-- SPOTIFY:END -->
 
 </div>
