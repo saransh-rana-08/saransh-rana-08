@@ -1,60 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=230&section=header&text=Saransh%20Rana&fontSize=68&fontColor=58a6ff&desc=CS%20Student%20%7C%20Backend%20Developer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=200&section=header&text=Saransh%20Rana&fontSize=64&fontColor=58a6ff&desc=Backend%20Developer%20%7C%20CS%20Student%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Not+Lucky.+Just+Consistent.+%F0%9F%92%BB;Building+with+Java+%26+Spring+Boot;CS+Student+%7C+Backend+Developer;Debugging+Life%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Not+Lucky.+Just+Consistent.;Building+production-grade+backend+systems;Java+%7C+Spring+Boot+%7C+MySQL;Currently+deep+in+DSA+%26+System+Design)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## $ whoami
+
+```java
+public class Saransh {
+
+    String name     = "Saransh Rana";
+    String role     = "CS Student → Backend Developer";
+    String passion  = "Building systems that actually scale";
+
+    String[] stack  = { "Java", "Spring Boot", "MySQL", "C++" };
+    String[] focus  = { "DSA", "System Design", "Clean Architecture" };
+
+    boolean openToCollaborate = true;
+    String  motto   = "Not Lucky. Just Consistent.";
+}
+```
 
 ---
 
 ## About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- &nbsp; CS Student, passionate about **Backend Engineering**
-- &nbsp; Building real-world systems with **Java & Spring Boot**
-- &nbsp; Currently mastering **System Design & DSA**
-- &nbsp; Open to collaborating on **impactful projects**
-- &nbsp; *"Not Lucky. Just Consistent."*
-
-</td>
-<td valign="top" width="50%">
-
-```java
-public class Saransh {
-
-    String role    = "CS Student";
-    String passion = "Backend Engineering";
-
-    String[] stack = {
-        "Java", "Spring Boot", "C++"
-    };
-
-    String motto =
-        "Not Lucky. Just Consistent.";
-}
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saransh-rana-08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
+- 🎓 **CS Student** with a laser focus on **Backend Engineering**
+- ⚙️ Building real-world systems using **Java & Spring Boot**
+- 📐 Currently grinding through **Data Structures, Algorithms & System Design**
+- 🤝 Open to collaborating on **meaningful, impactful projects**
+- 💬 Ask me about **Java, REST APIs, or backend architecture**
+- 📫 Reach me at [saranshrana08@gmail.com](mailto:saranshrana08@gmail.com)
 
 ---
 
@@ -62,55 +42,25 @@ public class Saransh {
 
 <div align="center">
 
-**— Languages —**
+**Languages**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark" />
-</a>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+**Frameworks & Tools**
 
-**— Frameworks & Tools —**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,git,github&theme=dark" />
-</a>
+**Databases**
 
-<br/><br/>
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**— Databases —**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="175"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=saransh-rana-08&theme=tokyonight&hide_border=true" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saransh-rana-08&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saransh-rana-08/saransh-rana-08/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
@@ -125,30 +75,68 @@ public class Saransh {
 
 </div>
 
+> 💡 **CodeNakshatra-Aegis** — A full-stack security-focused project built with Java & Spring Boot.
+> 🍴 **Vittles App** — A collaborative food-focused app project.
+
 ---
 
-`## Let's Connect
+## GitHub Stats
 
 <div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=saransh-rana-08&theme=tokyonight&hide_border=true" width="55%"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saransh-rana-08&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saransh-rana-08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saransh-rana-08/saransh-rana-08/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-rana-27a8aa330/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranshrana08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saransh-rana-08)
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saransh-rana-08&color=58a6ff&style=for-the-badge&label=VISITORS)
-
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=110&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=saransh-rana-08&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
+---
+
 <div align="center">
-  <sub>⭐ <i>"Not Lucky. Just Consistent."</i> &nbsp;—&nbsp; Saransh Rana</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=100&section=footer" width="100%"/>
+<sub><i>"Not Lucky. Just Consistent."</i> — Saransh Rana</sub>
 </div>
