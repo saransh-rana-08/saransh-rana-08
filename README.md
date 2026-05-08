@@ -73,13 +73,13 @@ public class Saransh {
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [CodeNakshatra-Aegis](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
+### [CodeNakshatra-Aegis](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
 
 A **full-stack security-focused emergency response system** built to operate silently under a disguise UI. Integrates real-time SOS dispatch, evidence capture, and backend orchestration.
 
@@ -88,7 +88,7 @@ A **full-stack security-focused emergency response system** built to operate sil
 </td>
 <td width="50%" valign="top">
 
-### 🍴 [Vittles App](https://github.com/ishita3075/Vittles_app)
+### [Vittles App](https://github.com/ishita3075/Vittles_app)
 
 A **collaborative food discovery and management app** built as a team project. Focused on clean UI, community-driven content, and practical food utility features.
 
@@ -157,7 +157,5 @@ A **collaborative food discovery and management app** built as a team project. F
 ---
 
 <div align="center">
-<img src="./assets/2789396.jpg" width="100%" alt="footer"/>
-<br/>
 <sub><i>"Not Lucky. Just Consistent."</i> &nbsp;—&nbsp; Saransh Rana</sub>
 </div>
