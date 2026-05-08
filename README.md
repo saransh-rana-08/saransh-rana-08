@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=200&section=header&text=Saransh%20Rana&fontSize=64&fontColor=58a6ff&desc=Backend%20Developer%20%7C%20CS%20Student%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=200&section=header&text=Saransh%20Rana&fontSize=64&fontColor=58a6ff&desc=Backend%20Developer%20%7C%20CS%20Student%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Not+Lucky.+Just+Consistent.;Building+production-grade+backend+systems;Java+%7C+Spring+Boot+%7C+MySQL;Currently+deep+in+DSA+%26+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Not+Lucky.+Just+Consistent.;Building+Backend+Systems+%7C+Java+%26+Spring+Boot;CS+Student+%7C+Consistent+Learner;Deep+in+DSA+%26+System+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,9 +69,9 @@ public class Saransh {
 
 <div align="center">
 
-[![CodeNakshatra-Aegis](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saransh-rana-08&repo=CodeNakshatra-Ageis&theme=tokyonight&hide_border=true)](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
+[![CodeNakshatra-Aegis](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=saransh-rana-08&repo=CodeNakshatra-Ageis&theme=tokyonight&hide_border=true)](https://github.com/saransh-rana-08/CodeNakshatra-Ageis)
 &nbsp;&nbsp;
-[![Vittles App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ishita3075&repo=Vittles_app&theme=tokyonight&hide_border=true)](https://github.com/ishita3075/Vittles_app)
+[![Vittles App](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ishita3075&repo=Vittles_app&theme=tokyonight&hide_border=true)](https://github.com/ishita3075/Vittles_app)
 
 </div>
 
@@ -84,9 +84,9 @@ public class Saransh {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=saransh-rana-08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saransh-rana-08&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
 
 <br/><br/>
 
@@ -107,7 +107,7 @@ public class Saransh {
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saransh-rana-08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saransh-rana-08&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </div>
 
 ---
