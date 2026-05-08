@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-🎵 **Now Playing**: [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) *by Rahat Fateh Ali Khan*
+🎵 **Now Playing**: [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) *by Javed-Mohsin, Vishal Mishra, Shreya Ghoshal*
 <!-- SPOTIFY:END -->
 
 </div>
