@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"><img src="https://i.scdn.co/image/ab67616d0000b27373b0435dbfea11043c2909b8" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Zihaal e Miskin</b><br/>&nbsp;&nbsp;<i>Javed-Mohsin, Vishal Mishra, Shreya Ghoshal</i></td></tr></table>
+<a href="https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"><img src="https://i.scdn.co/image/ab67616d0000b2733fbdf42862f54dcfc2dcdd98" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Raaj Karega Maalik (From "Maalik")</b><br/>&nbsp;&nbsp;<i>Sachin-Jigar, AKASA, MC SQUARE, Amitabh Bhattacharya</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
