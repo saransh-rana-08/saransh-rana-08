@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C24,50:0D2137,100:000C24&height=200&section=header&text=Saransh%20Rana&fontSize=64&fontColor=58a6ff&desc=Backend%20Developer%20%7C%20CS%20Student%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descSize=18" width="100%"/>
+<img src="./assets/2789396.jpg" width="100%" alt="Saransh Rana - Backend Developer | CS Student"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Not+Lucky.+Just+Consistent.;Building+Backend+Systems+%7C+Java+%26+Spring+Boot;CS+Student+%7C+Consistent+Learner;Deep+in+DSA+%26+System+Design)](https://git.io/typing-svg)
 
