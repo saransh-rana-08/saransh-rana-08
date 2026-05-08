@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"><img src="https://i.scdn.co/image/ab67616d0000b273c486f7fc6299f158d632e613" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Uska Hi Banana (From "1920 Evil Returns")</b><br/>&nbsp;&nbsp;<i>Arijit Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/6B77fnxiLucr5YBGYjDQtz"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6B77fnxiLucr5YBGYjDQtz"><img src="https://i.scdn.co/image/ab67616d0000b27312573d8bcbb01e5d148d9cfe" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Mexico</b><br/>&nbsp;&nbsp;<i>Karan Aujla</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
