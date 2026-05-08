@@ -124,6 +124,18 @@ A **collaborative food discovery and management app** built as a team project. F
 
 ---
 
+## Spotify
+
+<div align="center">
+
+<!-- SPOTIFY:START -->
+*Waiting for first sync... trigger the workflow from the Actions tab!*
+<!-- SPOTIFY:END -->
+
+</div>
+
+---
+
 ## GitHub Trophies
 
 <div align="center">

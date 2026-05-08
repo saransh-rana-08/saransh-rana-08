@@ -1,0 +1,42 @@
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # Runs every 30 minutes
+  workflow_dispatch:          # Allow manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and update Spotify status
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python spotify_update.py
+
+      - name: Commit changes to README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update spotify now playing status"
+          git push
