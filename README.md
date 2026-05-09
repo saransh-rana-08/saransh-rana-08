@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6vaFm6e56gwOH1TWRXpJ0B"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6vaFm6e56gwOH1TWRXpJ0B"><img src="https://i.scdn.co/image/ab67616d0000b2739bc0de81c2c35999b878784c" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Sharabiiaa</b><br/>&nbsp;&nbsp;<i>Preet Harpal</i></td></tr></table>
+<a href="https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"><img src="https://i.scdn.co/image/ab67616d0000b273f3735ea343894170c59668ce" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Check It Out</b><br/>&nbsp;&nbsp;<i>Parmish Verma, Paradox</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
