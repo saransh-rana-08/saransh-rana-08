@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6"><img src="https://i.scdn.co/image/ab67616d0000b27371e19d667fd7602fed4fc25b" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Gall Khaas</b><br/>&nbsp;&nbsp;<i>Zehr Vibe</i></td></tr></table>
+<a href="https://open.spotify.com/track/4xmHq8h6UrM8s2H221J74r"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4xmHq8h6UrM8s2H221J74r"><img src="https://i.scdn.co/image/ab67616d0000b2733aa0d00a2927ed708e8e2866" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>BHID MAT</b><br/>&nbsp;&nbsp;<i>Duryodhan Rana</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
