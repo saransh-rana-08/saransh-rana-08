@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"><img src="https://i.scdn.co/image/ab67616d0000b2737bcb47bf66f6488ea9009fc5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Moon Rise</b><br/>&nbsp;&nbsp;<i>Guru Randhawa, Sanjoy</i></td></tr></table>
+<a href="https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6"><img src="https://i.scdn.co/image/ab67616d0000b27371e19d667fd7602fed4fc25b" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Gall Khaas</b><br/>&nbsp;&nbsp;<i>Zehr Vibe</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
