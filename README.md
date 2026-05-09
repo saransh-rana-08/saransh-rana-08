@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"><img src="https://i.scdn.co/image/ab67616d0000b273f3735ea343894170c59668ce" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Check It Out</b><br/>&nbsp;&nbsp;<i>Parmish Verma, Paradox</i></td></tr></table>
+<a href="https://open.spotify.com/track/66pgL55KG00oTsxzTw7tBE"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/66pgL55KG00oTsxzTw7tBE"><img src="https://i.scdn.co/image/ab67616d0000b27349c1949911566df218c5f0dd" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Meri Bheegi Bheegi Si</b><br/>&nbsp;&nbsp;<i>Kishore Kumar, R. D. Burman</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
