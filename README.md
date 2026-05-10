@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/73Kwkz2RTEOIVUphRlCZfv"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/73Kwkz2RTEOIVUphRlCZfv"><img src="https://i.scdn.co/image/ab67616d0000b2734056bfa0599a8cad7a9a88b4" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tera Ishq Bada Teekha</b><br/>&nbsp;&nbsp;<i>Sajid-Wajid, Javed Ali, Shreya Ghoshal</i></td></tr></table>
+<a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://i.scdn.co/image/ab67616d0000b273763029ea0cb82dc8aae72737" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Morni</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Tru-Skool, Chani Nattan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
