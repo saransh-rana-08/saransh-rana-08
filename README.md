@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://i.scdn.co/image/ab67616d0000b27313dcb5da9470852eb67f1783" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Boom Shaka</b><br/>&nbsp;&nbsp;<i>KR$NA, Dhanda Nyoliwala</i></td></tr></table>
+<a href="https://open.spotify.com/track/73Kwkz2RTEOIVUphRlCZfv"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/73Kwkz2RTEOIVUphRlCZfv"><img src="https://i.scdn.co/image/ab67616d0000b2734056bfa0599a8cad7a9a88b4" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tera Ishq Bada Teekha</b><br/>&nbsp;&nbsp;<i>Sajid-Wajid, Javed Ali, Shreya Ghoshal</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
