@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4A7eOIbt19Wk5OXjVxE3SI"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4A7eOIbt19Wk5OXjVxE3SI"><img src="https://i.scdn.co/image/ab67616d0000b2732d2263486e48ab1b41ae2466" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Har Kisi Ko (From "Boss)</b><br/>&nbsp;&nbsp;<i>Arijit Singh, Neeti Mohan</i></td></tr></table>
+<a href="https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"><img src="https://i.scdn.co/image/ab67616d0000b2737bcb47bf66f6488ea9009fc5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Moon Rise</b><br/>&nbsp;&nbsp;<i>Guru Randhawa, Sanjoy</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
