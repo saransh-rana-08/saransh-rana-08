@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"><img src="https://i.scdn.co/image/ab67616d0000b273a501eb791db6baaa2c4deab8" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dhurandhar - Title Track (From "Dhurandhar")</b><br/>&nbsp;&nbsp;<i>Shashwat Sachdev, Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur, Babu Singh Maan</i></td></tr></table>
+<a href="https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"><img src="https://i.scdn.co/image/ab67616d0000b2735f8235bd9ce332fd1286999a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Chambal K Dakku</b><br/>&nbsp;&nbsp;<i>Masoom Sharma, Rahul Muana, Swara Verma, Ruba Khan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
