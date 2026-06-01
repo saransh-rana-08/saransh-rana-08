@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"><img src="https://i.scdn.co/image/ab67616d0000b2735f8235bd9ce332fd1286999a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Chambal K Dakku</b><br/>&nbsp;&nbsp;<i>Masoom Sharma, Rahul Muana, Swara Verma, Ruba Khan</i></td></tr></table>
+<a href="https://open.spotify.com/track/76GYjG2PnGM59Lb8WB09kH"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/76GYjG2PnGM59Lb8WB09kH"><img src="https://i.scdn.co/image/ab67616d0000b27380c565e92f58d2eeafaefe7a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>INTUITIONS</b><br/>&nbsp;&nbsp;<i>Rawkey, Abhitej Singh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
