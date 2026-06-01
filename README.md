@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/76GYjG2PnGM59Lb8WB09kH"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/76GYjG2PnGM59Lb8WB09kH"><img src="https://i.scdn.co/image/ab67616d0000b27380c565e92f58d2eeafaefe7a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>INTUITIONS</b><br/>&nbsp;&nbsp;<i>Rawkey, Abhitej Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/1l3xwcLUBx61xoZ40nXDs2"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1l3xwcLUBx61xoZ40nXDs2"><img src="https://i.scdn.co/image/ab67616d0000b2736eb9f6c4532e0caa2d23b6cd" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Bol Bol Bol</b><br/>&nbsp;&nbsp;<i>Ila Arun, Sudesh Bhosle, Udit Narayan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
