@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7n278iHoD21kun2OymTABC"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7n278iHoD21kun2OymTABC"><img src="https://i.scdn.co/image/ab67616d0000b2739711c40e3ffc7e7f179336ed" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tumse Milne Ki Tamanna Hai</b><br/>&nbsp;&nbsp;<i>S. P. Balasubrahmanyam</i></td></tr></table>
+<a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://i.scdn.co/image/ab67616d0000b273763029ea0cb82dc8aae72737" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Morni</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Tru-Skool, Chani Nattan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
