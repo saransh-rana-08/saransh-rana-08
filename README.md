@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"><img src="https://i.scdn.co/image/ab67616d0000b273c486f7fc6299f158d632e613" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Uska Hi Banana (From "1920 Evil Returns")</b><br/>&nbsp;&nbsp;<i>Arijit Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/7n278iHoD21kun2OymTABC"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7n278iHoD21kun2OymTABC"><img src="https://i.scdn.co/image/ab67616d0000b2739711c40e3ffc7e7f179336ed" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tumse Milne Ki Tamanna Hai</b><br/>&nbsp;&nbsp;<i>S. P. Balasubrahmanyam</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
