@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/50sbcAcWHgDPRDkYBEUpkA"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/50sbcAcWHgDPRDkYBEUpkA"><img src="https://i.scdn.co/image/ab67616d0000b273253d601686fce90808de969d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Mere Rashke Qamar (From "Baadshaho")</b><br/>&nbsp;&nbsp;<i>Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan, Manoj Muntashir</i></td></tr></table>
+<a href="https://open.spotify.com/track/1YlevP6atPK3iQS05FiaIJ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1YlevP6atPK3iQS05FiaIJ"><img src="https://i.scdn.co/image/ab67616d0000b27373cfc7ad7a17b4abf278b516" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Rutba</b><br/>&nbsp;&nbsp;<i>The LeKhak, BAD Junkie</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
