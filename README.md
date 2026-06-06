@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4aTaSgBPfE30Oe9AqxXb1T"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4aTaSgBPfE30Oe9AqxXb1T"><img src="https://i.scdn.co/image/ab67616d0000b273dacc15e623f7414829d1aaa1" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Very Hot</b><br/>&nbsp;&nbsp;<i>Gur Sidhu, Kaptaan, Deepak Dhillon</i></td></tr></table>
+<a href="https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az"><img src="https://i.scdn.co/image/ab67616d0000b273e0cc4272747a82576c3e7f00" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Total</b><br/>&nbsp;&nbsp;<i>Rawme Hooda, Nishael, Riyaazi</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
