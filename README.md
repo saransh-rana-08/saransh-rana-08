@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"><img src="https://i.scdn.co/image/ab67616d0000b273a304b6ab8acb0ff619fac342" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jaam - The Casino Song</b><br/>&nbsp;&nbsp;<i>Yo Yo Honey Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/5trLYW0GIV2xESg4lbJrhY"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5trLYW0GIV2xESg4lbJrhY"><img src="https://i.scdn.co/image/ab67616d0000b2738060972a392bf86c384fd6a2" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ek Raat</b><br/>&nbsp;&nbsp;<i>Vilen</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
