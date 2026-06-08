@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"><img src="https://i.scdn.co/image/ab67616d0000b2736964d76d1a6f4e4a9715b22b" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>WOW (From "Hai Jawani Toh Ishq Hona Hai")</b><br/>&nbsp;&nbsp;<i>Harrdy Sandhu, Tanishk Bagchi, Kiran Bajwa, Gill Machhrai</i></td></tr></table>
+<a href="https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"><img src="https://i.scdn.co/image/ab67616d0000b273a304b6ab8acb0ff619fac342" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jaam - The Casino Song</b><br/>&nbsp;&nbsp;<i>Yo Yo Honey Singh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
