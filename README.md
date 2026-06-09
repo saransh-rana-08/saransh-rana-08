@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen"><img src="https://i.scdn.co/image/ab67616d0000b2736d05db2c7253b8b9cc5ef008" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>8 Parche</b><br/>&nbsp;&nbsp;<i>Baani Sandhu, Gur Sidhu, Jassi Lokha</i></td></tr></table>
+<a href="https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"><img src="https://i.scdn.co/image/ab67616d0000b2737a7cc8411fe9e9e3ac5487f5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>California Love</b><br/>&nbsp;&nbsp;<i>Cheema Y, Gur Sidhu</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
