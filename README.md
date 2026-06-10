@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"><img src="https://i.scdn.co/image/ab67616d0000b2737a7cc8411fe9e9e3ac5487f5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>California Love</b><br/>&nbsp;&nbsp;<i>Cheema Y, Gur Sidhu</i></td></tr></table>
+<a href="https://open.spotify.com/track/5xRZ3H4YU8XHnBZpdRcQmX"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5xRZ3H4YU8XHnBZpdRcQmX"><img src="https://i.scdn.co/image/ab67616d0000b273f30982046f5e59e6bae57af7" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jab Hum Jawan Honge</b><br/>&nbsp;&nbsp;<i>Lata Mangeshkar, Shabbir Kumar, R. D. Burman</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
