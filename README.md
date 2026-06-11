@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"><img src="https://i.scdn.co/image/ab67616d0000b27373db28dd510b75b2b676b9b5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Raat Ke Shikari</b><br/>&nbsp;&nbsp;<i>Masoom Sharma, Sweta Chauhan, Yash Thukral</i></td></tr></table>
+<a href="https://open.spotify.com/track/3Zh2ngO9easf9Nj868G6a9"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3Zh2ngO9easf9Nj868G6a9"><img src="https://i.scdn.co/image/ab67616d0000b2735f3ede47954a93aa03efe5f9" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Haiwaan</b><br/>&nbsp;&nbsp;<i>Ashim Kemson, Manan Bhardwaj</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
