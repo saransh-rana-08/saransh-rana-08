@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6iAP8Gko9Xwq5Xi4upU3kB"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6iAP8Gko9Xwq5Xi4upU3kB"><img src="https://i.scdn.co/image/ab67616d0000b27324f25a3ae92d7ed3ffd08082" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Online Gundey</b><br/>&nbsp;&nbsp;<i>The LeKhak</i></td></tr></table>
+<a href="https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"><img src="https://i.scdn.co/image/ab67616d0000b27373db28dd510b75b2b676b9b5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Raat Ke Shikari</b><br/>&nbsp;&nbsp;<i>Masoom Sharma, Sweta Chauhan, Yash Thukral</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
