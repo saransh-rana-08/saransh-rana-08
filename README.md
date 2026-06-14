@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0gBb7S5fpjNhSYkPW46ADH"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0gBb7S5fpjNhSYkPW46ADH"><img src="https://i.scdn.co/image/ab67616d0000b273a5d0c3a1cb19037cb0110794" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dil Dil Dil - From "Ek Deewane Ki Deewaniyat"</b><br/>&nbsp;&nbsp;<i>Sunidhi Chauhan, Rajat Nagpal, Anu Malik</i></td></tr></table>
+<a href="https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x"><img src="https://i.scdn.co/image/ab67616d0000b273003c1352e6fca3a8543b5826" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dance Like</b><br/>&nbsp;&nbsp;<i>Harrdy Sandhu, Jaani</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
