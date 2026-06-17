@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7k3jpyYPnVnbO0p7iejWxL"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7k3jpyYPnVnbO0p7iejWxL"><img src="https://i.scdn.co/image/ab67616d0000b27354e544672baa16145d67612b" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Saadda Haq</b><br/>&nbsp;&nbsp;<i>Mohit Chauhan</i></td></tr></table>
+<a href="https://open.spotify.com/track/146SJxvTTDyCBjH62Z8fSs"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/146SJxvTTDyCBjH62Z8fSs"><img src="https://i.scdn.co/image/ab67616d0000b27338fee5befcf28a432ad50840" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Khidona</b><br/>&nbsp;&nbsp;<i>Satbir Aujla</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
