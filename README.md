@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"><img src="https://i.scdn.co/image/ab67616d0000b2730295f44c90127ce4c40d3a60" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Nafrat</b><br/>&nbsp;&nbsp;<i>Darshan Raval</i></td></tr></table>
+<a href="https://open.spotify.com/track/3YG634lejEuYl1l6PYC92r"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3YG634lejEuYl1l6PYC92r"><img src="https://i.scdn.co/image/ab67616d0000b2735b0dfbaabd17ac4b09903065" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tumhen Dillagi Bhool Jani Paregee</b><br/>&nbsp;&nbsp;<i>Nusrat Fateh Ali Khan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
