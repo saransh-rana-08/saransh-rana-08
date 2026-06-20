@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6JIquezleHbiqFOSuvBlxw"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6JIquezleHbiqFOSuvBlxw"><img src="https://i.scdn.co/image/ab67616d0000b273c53e5adf9f81693d62f98019" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ez-Ez</b><br/>&nbsp;&nbsp;<i>Shashwat Sachdev, Diljit Dosanjh, Hanumankind, Raj Ranjodh</i></td></tr></table>
+<a href="https://open.spotify.com/track/1cU9V5KOtacWq0gNiA2E1Y"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1cU9V5KOtacWq0gNiA2E1Y"><img src="https://i.scdn.co/image/ab67616d0000b273807a0ed91a6e064dca8db070" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Manifest</b><br/>&nbsp;&nbsp;<i>Nirbhay Punia, MixSingh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
