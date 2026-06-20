@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7xrosWOQbSHqhZWRXY69iS"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7xrosWOQbSHqhZWRXY69iS"><img src="https://i.scdn.co/image/ab67616d0000b273e810a88d506b30bdc0935247" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dil Mera Muft Ka</b><br/>&nbsp;&nbsp;<i>Pritam, Nandini Srikar, Muazzam, Rizwan, Shadab Faridi, Altamash Faridi, Shabab Sabri</i></td></tr></table>
+<a href="https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"><img src="https://i.scdn.co/image/ab67616d0000b2730295f44c90127ce4c40d3a60" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Nafrat</b><br/>&nbsp;&nbsp;<i>Darshan Raval</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
