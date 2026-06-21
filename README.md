@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3YG634lejEuYl1l6PYC92r"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3YG634lejEuYl1l6PYC92r"><img src="https://i.scdn.co/image/ab67616d0000b2735b0dfbaabd17ac4b09903065" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tumhen Dillagi Bhool Jani Paregee</b><br/>&nbsp;&nbsp;<i>Nusrat Fateh Ali Khan</i></td></tr></table>
+<a href="https://open.spotify.com/track/1VbXUh2VZVC0LTZXVsTeq6"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1VbXUh2VZVC0LTZXVsTeq6"><img src="https://i.scdn.co/image/ab67616d0000b27332d16d44fb02a86215bd1c94" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>2 Number</b><br/>&nbsp;&nbsp;<i>Bilal Saeed</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
