@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4A7eOIbt19Wk5OXjVxE3SI"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4A7eOIbt19Wk5OXjVxE3SI"><img src="https://i.scdn.co/image/ab67616d0000b2732d2263486e48ab1b41ae2466" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Har Kisi Ko (From "Boss)</b><br/>&nbsp;&nbsp;<i>Arijit Singh, Neeti Mohan</i></td></tr></table>
+<a href="https://open.spotify.com/track/31grulk7jiqH0lsDlEbYXK"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/31grulk7jiqH0lsDlEbYXK"><img src="https://i.scdn.co/image/ab67616d0000b273098c6159dc54b84daaff6ed3" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Qayamat</b><br/>&nbsp;&nbsp;<i>Sanjeev Darshan, Sukhwinder Singh, Alka Yagnik, Sameer Anjaan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
