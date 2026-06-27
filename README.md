@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"><img src="https://i.scdn.co/image/ab67616d0000b2730c28f02f30c669201ac4471d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Aarzu</b><br/>&nbsp;&nbsp;<i>Noor, Khan, Madhurxo</i></td></tr></table>
+<a href="https://open.spotify.com/track/0rxEPf4Y6uBmV3hkrV340a"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0rxEPf4Y6uBmV3hkrV340a"><img src="https://i.scdn.co/image/ab67616d0000b273a2011a6b7f81c63c1557076d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Isq Risk</b><br/>&nbsp;&nbsp;<i>Sohail Sen, Rahat Fateh Ali Khan, Irshad Kamil</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
