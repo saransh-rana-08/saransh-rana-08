@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3kRFfuSbdO9OzMQGp4VDOA"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3kRFfuSbdO9OzMQGp4VDOA"><img src="https://i.scdn.co/image/ab67616d0000b273bcc4cdbe60cfb7076dd15625" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Babam Bam (From "Mtv Hustle 2.0")</b><br/>&nbsp;&nbsp;<i>Paradox</i></td></tr></table>
+<img src="https://img.shields.io/badge/OFFLINE-333333?style=for-the-badge&logo=spotify&logoColor=white" alt="Offline"/><br/><br/>🔇 <i>Not listening to anything right now.</i>
 <!-- SPOTIFY:END -->
 
 </div>
