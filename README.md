@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"><img src="https://i.scdn.co/image/ab67616d0000b273524de9e68f8a8d018e4c1833" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Chora Baba Ka</b><br/>&nbsp;&nbsp;<i>Raftaar, Dhanda Nyoliwala</i></td></tr></table>
+<a href="https://open.spotify.com/track/7q5uZ3uNTV1oV5ul7XtRP2"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7q5uZ3uNTV1oV5ul7XtRP2"><img src="https://i.scdn.co/image/ab67616d0000b27387e36547ea53b9f7747672c1" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Singh Naal Jodi</b><br/>&nbsp;&nbsp;<i>Sukshinder Shinda, Diljit Dosanjh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
