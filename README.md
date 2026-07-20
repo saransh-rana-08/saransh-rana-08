@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7eiEe8Y8no9LIK0AKlu6Yy"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7eiEe8Y8no9LIK0AKlu6Yy"><img src="https://i.scdn.co/image/ab67616d0000b2732b0a1c92506d7bdb1afad940" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Yahan Pe</b><br/>&nbsp;&nbsp;<i>Khayek</i></td></tr></table>
+<a href="https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az"><img src="https://i.scdn.co/image/ab67616d0000b273e0cc4272747a82576c3e7f00" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Total</b><br/>&nbsp;&nbsp;<i>Rawme Hooda, Nishael, Riyaazi</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
