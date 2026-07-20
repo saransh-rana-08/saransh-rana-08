@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://i.scdn.co/image/ab67616d0000b273c984cb95aba2bda3c6f6d6d2" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Morni</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Tru-Skool, Chani Nattan</i></td></tr></table>
+<a href="https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra"><img src="https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Run Down The City - Monica</b><br/>&nbsp;&nbsp;<i>Shashwat Sachdev, Reble, Asha Bhosle, R. D. Burman, Majrooh Sultanpuri</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
