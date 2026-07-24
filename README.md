@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://i.scdn.co/image/ab67616d0000b273446af3a960b7bd4e272ab29f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Diamond</b><br/>&nbsp;&nbsp;<i>Gurnam Bhullar, Vicky Dhaliwal, Ikwinder Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://i.scdn.co/image/ab67616d0000b27313dcb5da9470852eb67f1783" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Boom Shaka</b><br/>&nbsp;&nbsp;<i>KR$NA, Dhanda Nyoliwala</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
