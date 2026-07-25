@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"><img src="https://i.scdn.co/image/ab67616d0000b27313dcb5da9470852eb67f1783" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Boom Shaka</b><br/>&nbsp;&nbsp;<i>KR$NA, Dhanda Nyoliwala</i></td></tr></table>
+<a href="https://open.spotify.com/track/1MJcZkwHLSLkILigcrNkPA"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1MJcZkwHLSLkILigcrNkPA"><img src="https://i.scdn.co/image/ab67616d0000b2737147a3a995de36dd78c069f4" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Flow</b><br/>&nbsp;&nbsp;<i>Money J</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
