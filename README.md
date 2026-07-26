@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6U8g1gIPeHXLTCZ7U6wxbQ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6U8g1gIPeHXLTCZ7U6wxbQ"><img src="https://i.scdn.co/image/ab67616d0000b27367921b983b79d555b282f7fb" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Lehnga (From "Jatt & Juliet 3")</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Jaani, Bunny</i></td></tr></table>
+<a href="https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7"><img src="https://i.scdn.co/image/ab67616d0000b273f7f3feb4c9ea40bae3888d2a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Main Dhoondne Ko Zamaane Mein</b><br/>&nbsp;&nbsp;<i>Arijit Singh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
