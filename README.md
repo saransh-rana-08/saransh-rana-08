@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4bMccJJMOozZ2JFvZ1QtUC"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4bMccJJMOozZ2JFvZ1QtUC"><img src="https://i.scdn.co/image/ab67616d0000b273c8eff7ae4451e6839a38c2fa" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Na Pushde</b><br/>&nbsp;&nbsp;<i>Saivi Fareed</i></td></tr></table>
+<a href="https://open.spotify.com/track/2SeUci6OXx1ztZiFiDIyX5"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2SeUci6OXx1ztZiFiDIyX5"><img src="https://i.scdn.co/image/ab67616d0000b273f1d982bdf924dd4015ddf475" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dhurandhar The Revenge - Aari Aari (From "Dhurandhar The Revenge")</b><br/>&nbsp;&nbsp;<i>Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
