@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/79F3Cm8rSKxKs5l3RxXHIW"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/79F3Cm8rSKxKs5l3RxXHIW"><img src="https://i.scdn.co/image/ab67616d0000b27376d2a4ed8b935f366d9612d8" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Race Saanson Ki</b><br/>&nbsp;&nbsp;<i>Sunidhi Chauhan, Neeraj Shridhar, Pritam</i></td></tr></table>
+<a href="https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"><img src="https://i.scdn.co/image/ab67616d0000b273be41f0d275bbd97b9494a82d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>At Peace</b><br/>&nbsp;&nbsp;<i>Karan Aujla, Ikky</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
