@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA"><img src="https://i.scdn.co/image/ab67616d0000b273f47f3f44f4a7311a66c7a770" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Yeh Raaten Yeh Mausam</b><br/>&nbsp;&nbsp;<i>Sanam, Simran Sehgal</i></td></tr></table>
+<a href="https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1"><img src="https://i.scdn.co/image/ab67616d0000b27361e0b61e11706b9acff50231" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Zaroori Tha</b><br/>&nbsp;&nbsp;<i>Rahat Fateh Ali Khan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
