@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/5wq55P6xQRrwJMNpFVoHCh"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5wq55P6xQRrwJMNpFVoHCh"><img src="https://i.scdn.co/image/ab67616d0000b27357ead6c676b0631cd83e8add" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ishq Ka Raja</b><br/>&nbsp;&nbsp;<i>Addy Nagar, Hamsar Hayat</i></td></tr></table>
+<a href="https://open.spotify.com/track/6pprRG4zENBwRbIbsGHWRM"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6pprRG4zENBwRbIbsGHWRM"><img src="https://i.scdn.co/image/ab67616d0000b2734772c4485cfc6715e0e542f3" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Pent Straight</b><br/>&nbsp;&nbsp;<i>Gurnam Bhullar, Kaptaan, Desi Crew</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
