@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3BaiYbzAMD8meO4cMz5Wlb"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3BaiYbzAMD8meO4cMz5Wlb"><img src="https://i.scdn.co/image/ab67616d0000b27322d4d259ebce1f84df76f9b8" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Suthri Si Chhori</b><br/>&nbsp;&nbsp;<i>Mukesh Foji, Ajay Hooda, Arzoo Dhillon</i></td></tr></table>
+<a href="https://open.spotify.com/track/6U8g1gIPeHXLTCZ7U6wxbQ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6U8g1gIPeHXLTCZ7U6wxbQ"><img src="https://i.scdn.co/image/ab67616d0000b27367921b983b79d555b282f7fb" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Lehnga (From "Jatt & Juliet 3")</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Jaani, Bunny</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
