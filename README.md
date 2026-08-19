@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4MJ2M6nSAgX6Gza2ZYTtwm"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4MJ2M6nSAgX6Gza2ZYTtwm"><img src="https://i.scdn.co/image/ab67616d0000b273eccc7874809ba90da8c28140" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tich Button</b><br/>&nbsp;&nbsp;<i>Kulwinder Billa</i></td></tr></table>
+<a href="https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"><img src="https://i.scdn.co/image/ab67616d0000b273a5f7818cd1951c5742e8277a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tera Mera Rishta - New Version (From "Awarapan 2")</b><br/>&nbsp;&nbsp;<i>Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
