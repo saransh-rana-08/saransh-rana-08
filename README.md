@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/677mQUkPnfYvoEgNAt77J7"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/677mQUkPnfYvoEgNAt77J7"><img src="https://i.scdn.co/image/ab67616d0000b273c33c23574fba0d4f630ca8c5" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Sajanwa Ki Gunwa</b><br/>&nbsp;&nbsp;<i>Anand Bhaskar, Ginny Diwan, Veena Parasher</i></td></tr></table>
+<a href="https://open.spotify.com/track/3IFpZhsVBrxmBgicKjgCsD"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3IFpZhsVBrxmBgicKjgCsD"><img src="https://i.scdn.co/image/ab67616d0000b273ba52c35bca6b280c7a9233ce" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tere Ishk Mein</b><br/>&nbsp;&nbsp;<i>A.R. Rahman, Arijit Singh, Irshad Kamil</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
