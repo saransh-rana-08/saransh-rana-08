@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3IFpZhsVBrxmBgicKjgCsD"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3IFpZhsVBrxmBgicKjgCsD"><img src="https://i.scdn.co/image/ab67616d0000b273ba52c35bca6b280c7a9233ce" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tere Ishk Mein</b><br/>&nbsp;&nbsp;<i>A.R. Rahman, Arijit Singh, Irshad Kamil</i></td></tr></table>
+<a href="https://open.spotify.com/track/4MJ2M6nSAgX6Gza2ZYTtwm"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4MJ2M6nSAgX6Gza2ZYTtwm"><img src="https://i.scdn.co/image/ab67616d0000b273eccc7874809ba90da8c28140" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tich Button</b><br/>&nbsp;&nbsp;<i>Kulwinder Billa</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
