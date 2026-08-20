@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7v6kXbTvpHbhq5LHruy0xV"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7v6kXbTvpHbhq5LHruy0xV"><img src="https://i.scdn.co/image/ab67616d0000b2730f144d9d2dda42361b9ef2bc" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jhanjharia - Male Version</b><br/>&nbsp;&nbsp;<i>Anu Malik, Abhijeet, Anand Raj Anand</i></td></tr></table>
+<a href="https://open.spotify.com/track/5nLWfa1sR5zuywdOsiwJ9A"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5nLWfa1sR5zuywdOsiwJ9A"><img src="https://i.scdn.co/image/ab67616d0000b273071934090c97745277b8337d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dil Kaat Ke</b><br/>&nbsp;&nbsp;<i>Jaani, B Praak, Bunny</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
