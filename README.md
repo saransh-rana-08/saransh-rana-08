@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0gBb7S5fpjNhSYkPW46ADH"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0gBb7S5fpjNhSYkPW46ADH"><img src="https://i.scdn.co/image/ab67616d0000b273a5d0c3a1cb19037cb0110794" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dil Dil Dil - From "Ek Deewane Ki Deewaniyat"</b><br/>&nbsp;&nbsp;<i>Sunidhi Chauhan, Rajat Nagpal, Anu Malik</i></td></tr></table>
+<a href="https://open.spotify.com/track/62wiEZR8Q6Wbty1y9EZ4im"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/62wiEZR8Q6Wbty1y9EZ4im"><img src="https://i.scdn.co/image/ab67616d0000b27396e501e1dd64159d4120191d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jugni (feat. Jacqueline Fernandez)</b><br/>&nbsp;&nbsp;<i>Sonu Thukral, B Praak, Avvy Sra, Jacqueline Fernandez</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
