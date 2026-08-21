@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/62wiEZR8Q6Wbty1y9EZ4im"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/62wiEZR8Q6Wbty1y9EZ4im"><img src="https://i.scdn.co/image/ab67616d0000b27396e501e1dd64159d4120191d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jugni (feat. Jacqueline Fernandez)</b><br/>&nbsp;&nbsp;<i>Sonu Thukral, B Praak, Avvy Sra, Jacqueline Fernandez</i></td></tr></table>
+<a href="https://open.spotify.com/track/4Yzp144WV785fwLSZgXI4f"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4Yzp144WV785fwLSZgXI4f"><img src="https://i.scdn.co/image/ab67616d0000b273bf006aa3f23a3dd62d22216f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jatt Saari Umar</b><br/>&nbsp;&nbsp;<i>Siippyy Gill</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
