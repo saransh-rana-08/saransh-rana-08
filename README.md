@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6tFOIy09JZJqwPXck71b21"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6tFOIy09JZJqwPXck71b21"><img src="https://i.scdn.co/image/ab67616d0000b27355ffc6425fc8ea48795374a1" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Sadi Sun</b><br/>&nbsp;&nbsp;<i>Harsh Nussi</i></td></tr></table>
+<a href="https://open.spotify.com/track/5wq55P6xQRrwJMNpFVoHCh"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5wq55P6xQRrwJMNpFVoHCh"><img src="https://i.scdn.co/image/ab67616d0000b27357ead6c676b0631cd83e8add" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ishq Ka Raja</b><br/>&nbsp;&nbsp;<i>Addy Nagar, Hamsar Hayat</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
