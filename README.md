@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/5B29YNjG7dx0GfU19ZBEpo"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5B29YNjG7dx0GfU19ZBEpo"><img src="https://i.scdn.co/image/ab67616d0000b273a55517eaf52dfd35633f073d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dekha Ek Khwab - II</b><br/>&nbsp;&nbsp;<i>Lata Mangeshkar, Kishore Kumar</i></td></tr></table>
+<a href="https://open.spotify.com/track/0es02Rp0p0WpC4WRBDtM8P"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0es02Rp0p0WpC4WRBDtM8P"><img src="https://i.scdn.co/image/ab67616d0000b2735e0519e32f87e84a09141bfd" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Likhe Jo Khat Tujhe</b><br/>&nbsp;&nbsp;<i>Mohammed Rafi</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
