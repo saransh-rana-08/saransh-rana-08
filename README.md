@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"><img src="https://i.scdn.co/image/ab67616d0000b27349c1949911566df218c5f0dd" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Bahon Mein Chale Aao</b><br/>&nbsp;&nbsp;<i>Lata Mangeshkar, R. D. Burman</i></td></tr></table>
+<a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"><img src="https://i.scdn.co/image/ab67616d0000b273c984cb95aba2bda3c6f6d6d2" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Morni</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh, Tru-Skool, Chani Nattan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
