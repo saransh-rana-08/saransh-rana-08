@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0dUbhFM18NyBDDpiktEQLk"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0dUbhFM18NyBDDpiktEQLk"><img src="https://i.scdn.co/image/ab67616d0000b273f5fc91a05e4380122d8359b3" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ae Mere Humsafar</b><br/>&nbsp;&nbsp;<i>Alka Yagnik, Udit Narayan</i></td></tr></table>
+<a href="https://open.spotify.com/track/5B29YNjG7dx0GfU19ZBEpo"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5B29YNjG7dx0GfU19ZBEpo"><img src="https://i.scdn.co/image/ab67616d0000b273a55517eaf52dfd35633f073d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dekha Ek Khwab - II</b><br/>&nbsp;&nbsp;<i>Lata Mangeshkar, Kishore Kumar</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
