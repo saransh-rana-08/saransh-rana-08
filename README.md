@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://i.scdn.co/image/ab67616d0000b273446af3a960b7bd4e272ab29f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Diamond</b><br/>&nbsp;&nbsp;<i>Gurnam Bhullar, Vicky Dhaliwal, Ikwinder Singh</i></td></tr></table>
+<a href="https://open.spotify.com/track/72sqQfhspvgiCxrj89Ip0e"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/72sqQfhspvgiCxrj89Ip0e"><img src="https://i.scdn.co/image/ab67616d0000b27355fe3105f5baedff1d13513a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Table 19</b><br/>&nbsp;&nbsp;<i>Jindhmahi, Knockout, Crmxl</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
