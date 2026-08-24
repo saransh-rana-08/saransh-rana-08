@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"><img src="https://i.scdn.co/image/ab67616d0000b273e62ca3548e739bd85eebbbc9" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>G.O.A.T.</b><br/>&nbsp;&nbsp;<i>Diljit Dosanjh</i></td></tr></table>
+<a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1zXXtcyGoQFRqX914XJRTU"><img src="https://i.scdn.co/image/ab67616d0000b273446af3a960b7bd4e272ab29f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Diamond</b><br/>&nbsp;&nbsp;<i>Gurnam Bhullar, Vicky Dhaliwal, Ikwinder Singh</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
