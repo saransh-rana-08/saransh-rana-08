@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/000RDCYioLteXcutOjeweY"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/000RDCYioLteXcutOjeweY"><img src="https://i.scdn.co/image/ab67616d0000b273cf16a30b8de6803d2bb50868" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Teeje Week</b><br/>&nbsp;&nbsp;<i>Jordan Sandhu, Bunty Bains</i></td></tr></table>
+<a href="https://open.spotify.com/track/7sxmMb1go1w4Y36H0lv7VN"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7sxmMb1go1w4Y36H0lv7VN"><img src="https://i.scdn.co/image/ab67616d0000b2735ff53c18853f7bbd08606fdc" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dabya Ni Karde</b><br/>&nbsp;&nbsp;<i>Bintu Pabra, Ndee Kundu, Bamboo Beat, Kp Kundu</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
