@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7sxmMb1go1w4Y36H0lv7VN"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7sxmMb1go1w4Y36H0lv7VN"><img src="https://i.scdn.co/image/ab67616d0000b2735ff53c18853f7bbd08606fdc" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Dabya Ni Karde</b><br/>&nbsp;&nbsp;<i>Bintu Pabra, Ndee Kundu, Bamboo Beat, Kp Kundu</i></td></tr></table>
+<a href="https://open.spotify.com/track/72sqQfhspvgiCxrj89Ip0e"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/72sqQfhspvgiCxrj89Ip0e"><img src="https://i.scdn.co/image/ab67616d0000b27355fe3105f5baedff1d13513a" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Table 19</b><br/>&nbsp;&nbsp;<i>Jindhmahi, Knockout, Crmxl</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
