@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0Y4sbkgLjJt9fbDzXzZR2m"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0Y4sbkgLjJt9fbDzXzZR2m"><img src="https://i.scdn.co/image/ab67616d0000b273a182a56697b6bab1e3f71f3f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Thaat</b><br/>&nbsp;&nbsp;<i>Babbar, Refix</i></td></tr></table>
+<a href="https://open.spotify.com/track/3GYSZevXUi39MQ76krsLJ6"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3GYSZevXUi39MQ76krsLJ6"><img src="https://i.scdn.co/image/ab67616d0000b27332d16d44fb02a86215bd1c94" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Ku Ku</b><br/>&nbsp;&nbsp;<i>Bilal Saeed</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
