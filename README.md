@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0mh4VutnDyBn1sqcp05MZD"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0mh4VutnDyBn1sqcp05MZD"><img src="https://i.scdn.co/image/ab67616d0000b273947e9127982f21bf5504e1f8" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Mat Aazma Re</b><br/>&nbsp;&nbsp;<i>Pritam, KK, Sayeed Quadri</i></td></tr></table>
+<a href="https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"><img src="https://i.scdn.co/image/ab67616d0000b273af932ac943c7afa6b74659f7" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tere Liye</b><br/>&nbsp;&nbsp;<i>Atif Aslam, Shreya Ghoshal, Sachin Gupta, Sameer Anjaan</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
