@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/588HjEd7QOzkw4W9laNsfC"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/588HjEd7QOzkw4W9laNsfC"><img src="https://i.scdn.co/image/ab67616d0000b273c19d16668d81be7792d636b7" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Manifest</b><br/>&nbsp;&nbsp;<i>Nirbhay Punia, MixSingh</i></td></tr></table>
+<a href="https://open.spotify.com/track/2yhoW2eUe4b9lC68dczrDg"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2yhoW2eUe4b9lC68dczrDg"><img src="https://i.scdn.co/image/ab67616d0000b2734d07d9a8fa245fa06101dde3" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Piya Bairi Lage</b><br/>&nbsp;&nbsp;<i>Siroyi, Aditya Pushkarna</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
