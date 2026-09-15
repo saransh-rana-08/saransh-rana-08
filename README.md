@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/1rQ1Quwa40g2D5qiDszzPg"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1rQ1Quwa40g2D5qiDszzPg"><img src="https://i.scdn.co/image/ab67616d0000b2735a63efb352e4b9cf64b5b6e4" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jagga Jiteya</b><br/>&nbsp;&nbsp;<i>Kumaar, Daler Mehndi, Dee MC, Shashwat Sachdev</i></td></tr></table>
+<a href="https://open.spotify.com/track/3OiiqNHZsAHjHavEg5yXAC"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3OiiqNHZsAHjHavEg5yXAC"><img src="https://i.scdn.co/image/ab67616d0000b27339349fff727a0353d3c9db51" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Gal Sun - UPLIFT (feat. Rackstar)</b><br/>&nbsp;&nbsp;<i>Sabaat Batin, Rackstar</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
