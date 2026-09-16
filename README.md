@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/2TktNdu8PMfhApbWHDFSgZ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2TktNdu8PMfhApbWHDFSgZ"><img src="https://i.scdn.co/image/ab67616d0000b273f215f8435803f93815786f87" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Allah Duhai Hai</b><br/>&nbsp;&nbsp;<i>Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak, Michie One, Pritam</i></td></tr></table>
+<a href="https://open.spotify.com/track/6tFOIy09JZJqwPXck71b21"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6tFOIy09JZJqwPXck71b21"><img src="https://i.scdn.co/image/ab67616d0000b27355ffc6425fc8ea48795374a1" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Sadi Sun</b><br/>&nbsp;&nbsp;<i>Harsh Nussi</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
