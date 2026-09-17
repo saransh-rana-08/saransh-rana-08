@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/5EOGSQ3hAiLIC5QdCtHEuB"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5EOGSQ3hAiLIC5QdCtHEuB"><img src="https://i.scdn.co/image/ab67616d0000b2735edb31349485c9fffdab1c9e" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jugni</b><br/>&nbsp;&nbsp;<i>Sonu Thukral, B Praak, Jacqueline Fernandez</i></td></tr></table>
+<a href="https://open.spotify.com/track/5HcmY1snOsJ9Z6Dg5nfd8M"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/5HcmY1snOsJ9Z6Dg5nfd8M"><img src="https://i.scdn.co/image/ab67616d0000b273dada8d0d088c19b647482818" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>On The Way</b><br/>&nbsp;&nbsp;<i>Khasa Aala Chahar, KD DESIROCK, Ghanu Music</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
