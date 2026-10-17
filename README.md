@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<img src="https://img.shields.io/badge/OFFLINE-333333?style=for-the-badge&logo=spotify&logoColor=white" alt="Offline"/><br/><br/>🔇 <i>Not listening to anything right now.</i>
+<a href="https://open.spotify.com/track/2q9VWwaH8nBNnqtiOn4KTg"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2q9VWwaH8nBNnqtiOn4KTg"><img src="https://i.scdn.co/image/ab67616d0000b2732fa862f666e1df905d3cceef" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Maahaul</b><br/>&nbsp;&nbsp;<i>Dhadkan, Aditya Pushkarna</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
