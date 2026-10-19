@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/7JqIhLtctfc6U96aovx1UX"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7JqIhLtctfc6U96aovx1UX"><img src="https://i.scdn.co/image/ab67616d0000b27357ab60bfd57ab7998f4243fb" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Time Chakda</b><br/>&nbsp;&nbsp;<i>Nimrat Khaira, Desi Crew</i></td></tr></table>
+<a href="https://open.spotify.com/track/3PEKd06SoBD7rpXe0kHGKO"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3PEKd06SoBD7rpXe0kHGKO"><img src="https://i.scdn.co/image/ab67616d0000b27311df313b841194d28e3f8652" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Yaari Tod Deni</b><br/>&nbsp;&nbsp;<i>Surjit Bhullar, Sudesh Kumari</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
