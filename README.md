@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/2B5hlXEiWAqZ9U6GwuyBSk"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2B5hlXEiWAqZ9U6GwuyBSk"><img src="https://i.scdn.co/image/ab67616d0000b2736ccf84353032bd3822c1922d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Bedardi Se Pyaar Ka</b><br/>&nbsp;&nbsp;<i>Jubin Nautiyal, Meet Bros., Manoj Muntashir</i></td></tr></table>
+<a href="https://open.spotify.com/track/7JqIhLtctfc6U96aovx1UX"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/7JqIhLtctfc6U96aovx1UX"><img src="https://i.scdn.co/image/ab67616d0000b27357ab60bfd57ab7998f4243fb" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Time Chakda</b><br/>&nbsp;&nbsp;<i>Nimrat Khaira, Desi Crew</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
