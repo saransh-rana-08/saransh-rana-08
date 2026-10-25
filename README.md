@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6Frhkb7giXWjeJAX2dJT88"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6Frhkb7giXWjeJAX2dJT88"><img src="https://i.scdn.co/image/ab67616d0000b273f37953bdced22729ab0743ea" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>O Mere Dil Ke Chain</b><br/>&nbsp;&nbsp;<i>Kishore Kumar, R. D. Burman</i></td></tr></table>
+<a href="https://open.spotify.com/track/1jwKDC0GL5bTLJnu9LegTZ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/1jwKDC0GL5bTLJnu9LegTZ"><img src="https://i.scdn.co/image/ab67616d0000b2731e328a6b8aad3bda49c0c572" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Jhoot</b><br/>&nbsp;&nbsp;<i>harmeeet, Aditya Pushkarna</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
