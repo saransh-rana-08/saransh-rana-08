@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/6mxV9TKpiyVh6lIIFvNtTp"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6mxV9TKpiyVh6lIIFvNtTp"><img src="https://i.scdn.co/image/ab67616d0000b273e6d2cd82fce8f8646f4c4d6f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>All set</b><br/>&nbsp;&nbsp;<i>Yuvraj Tung, Khushi Pandher, Honey Dhillon</i></td></tr></table>
+<a href="https://open.spotify.com/track/2njC2umOngBCOj14iHR8K8"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2njC2umOngBCOj14iHR8K8"><img src="https://i.scdn.co/image/ab67616d0000b27350557f616c35cf935dc7681b" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Aaja Piya Tohe Pyar Doon</b><br/>&nbsp;&nbsp;<i>Lata Mangeshkar, R. D. Burman</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
