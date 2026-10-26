@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3soQ5DC3cgzHkfqwQaPu4M"><img src="https://img.shields.io/badge/NOW+PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/3soQ5DC3cgzHkfqwQaPu4M"><img src="https://i.scdn.co/image/ab67616d0000b2737b3b4137a20c5cb986f3b274" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>No one like us</b><br/>&nbsp;&nbsp;<i>Dulla, Shah Rehan</i></td></tr></table>
+<a href="https://open.spotify.com/track/6mxV9TKpiyVh6lIIFvNtTp"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/6mxV9TKpiyVh6lIIFvNtTp"><img src="https://i.scdn.co/image/ab67616d0000b273e6d2cd82fce8f8646f4c4d6f" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>All set</b><br/>&nbsp;&nbsp;<i>Yuvraj Tung, Khushi Pandher, Honey Dhillon</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
