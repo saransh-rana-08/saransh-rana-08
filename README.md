@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/2ILq3zBBPP2qQThFNb7rHK"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/2ILq3zBBPP2qQThFNb7rHK"><img src="https://i.scdn.co/image/ab67616d0000b273af36783cfb8449528076ee3d" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Pump Up</b><br/>&nbsp;&nbsp;<i>Rawme Hooda</i></td></tr></table>
+<a href="https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"><img src="https://i.scdn.co/image/ab67616d0000b2739d0ac7f9f66ebbc9d7dd9842" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Tere Bina Na Guzara E</b><br/>&nbsp;&nbsp;<i>Josh Brar</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
