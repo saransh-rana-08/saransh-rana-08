@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/4vZntW0SP87tLs5paQBvFJ"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4vZntW0SP87tLs5paQBvFJ"><img src="https://i.scdn.co/image/ab67616d0000b27353f5522de13691a997e56028" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Baaki</b><br/>&nbsp;&nbsp;<i>Sach Rana, Vneeeet</i></td></tr></table>
+<a href="https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3"><img src="https://i.scdn.co/image/ab67616d0000b273ce643886a6df8f7a06526700" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Guzarish</b><br/>&nbsp;&nbsp;<i>Satinder Sartaaj</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
