@@ -129,7 +129,7 @@ A **collaborative food discovery and management app** built as a team project. F
 <div align="center">
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/0jaeX4da4tK8LHTqbzy1c0"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/0jaeX4da4tK8LHTqbzy1c0"><img src="https://i.scdn.co/image/ab67616d0000b2731b706bbdda832bdc3f2264a0" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Rihaayi</b><br/>&nbsp;&nbsp;<i>Paradox</i></td></tr></table>
+<a href="https://open.spotify.com/track/4f0r3vZaxVuQPPQelbXCcg"><img src="https://img.shields.io/badge/LAST+PLAYED-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a><br/><br/><table><tr><td><a href="https://open.spotify.com/track/4f0r3vZaxVuQPPQelbXCcg"><img src="https://i.scdn.co/image/ab67616d0000b273a55e9af114a8005d24109b63" width="60" height="60" alt="album art"/></a></td><td>&nbsp;&nbsp;<b>Teeji Seat</b><br/>&nbsp;&nbsp;<i>Kaka</i></td></tr></table>
 <!-- SPOTIFY:END -->
 
 </div>
